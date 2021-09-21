@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name" : "Ahmed Raza",
+        "email" : "ahmed.raza@digitalcloud.com.pk",
+        "address": {
+            "street": "163, Block F-2",
+            "city" : "Lahore",
+            "zipcode" : "54770"
+        },
+        "phone" : "+92 300 4320 539",
+        "job title" : "Web Developer"
+    },
+    {
+        "id": 2,
+        "name" : "Tayyab Naveed",
+        "email" : "tayyab.naveed@digitalcloud.com.pk",
+        "address": {
+            "street": "164, Block F-2, Street 4",
+            "city" : "Lahore",
+            "zipcode" : "54770"
+        },
+        "phone" : "+92 345 4207 525",
+        "job title" : "WordPress Developer"
+    },
+    {
+        "id": 3,
+        "name" : "Saad Naveed",
+        "email" : "saad.naveed@digitalcloud.com.pk",
+        "address": {
+            "street": "165, Block F-2",
+            "city" : "Lahore",
+            "zipcode" : "54770"
+        },
+        "phone" : "+92 310 4667 011",
+        "job title" : "Presentation Designer"
+    },
+    {
+        "id": 4,
+        "name" : "Dania Rubab",
+        "email" : "dania.rubab@digitalcloud.com.pk",
+        "address": {
+            "street": "166, Block F-2",
+            "city" : "Lahore",
+            "zipcode" : "54770"
+        },
+        "phone" : "+92 317 435 9459",
+        "job title" : "Graphic Designer & Web Designer"
+    },
+    {
+        "id": 5,
+        "name" : "Naveed Akhtar",
+        "email" : "naveed.akhter@digitalcloud.com.pk",
+        "address": {
+            "street": "163, Block F-2",
+            "city" : "Lahore",
+            "zipcode" : "54770"
+        },
+        "phone" : "+92 345 4207 525",
+        "job title" : "IT Expert"
+    }
+]  
+    
